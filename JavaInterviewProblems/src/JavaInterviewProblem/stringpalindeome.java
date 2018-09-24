@@ -7,7 +7,7 @@ public class stringpalindeome {
 		// TODO Auto-generated method stub
 		String TestName = "1bo b1";
 		System.out.println(isPalindrome3(TestName));
-	}
+	} 
 
 	// 1 String Buffer
 	private static boolean isPalindrome1(String testName) {
